@@ -49,3 +49,4 @@ This chatbot application uses a Logistic Regression classifier and TF-IDF vector
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+YOLO badge test
